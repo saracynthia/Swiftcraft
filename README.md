@@ -1,4 +1,4 @@
-# Funiture_App
+# Swift_App
 
 A new Flutter project.
 
